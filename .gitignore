@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore database files (Security!)
+*.db
+auth.db
+sql_app.db
+
+# Ignore compiled python files
+__pycache__/
+*.pyc
